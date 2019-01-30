@@ -1,2 +1,3 @@
 # iflytek_asr_python
-Iflytek ASR Python3 via web api
+Iflytek Long Form ASR Python3 demo via web api v4.0.  
+Ref: https://www.xfyun.cn/services/lfasr
